@@ -1,0 +1,13 @@
+Package: simple-edit
+Version: 1.0
+Architecture: all
+Maintainer: you
+Depends: python
+Description: Simple terminal text editor for Termux using Python curses
+Filename: dists/stable/extras/binary-all/simple-edit.deb
+Size: 1880
+MD5Sum: 77a9a5413f2d1871dac9a7700670f8d5
+SHA1: f7371008ec8a59396187c691fa26aaf73d6a7cab
+SHA256: 0a5bb9e1b377c29196a559acb6edafc3306301ca21675e5784922c3ce2672025
+SHA512: fc5ad6bfa3ead4496911fd0b84475582efb71048228966cf80f9eb252f658e2df20e5dccd5e98642efbddce1baa960b63960d64b25913321f69d85dd4c8fe6b8
+
