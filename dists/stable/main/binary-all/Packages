@@ -4,7 +4,7 @@ Architecture: all
 Maintainer: you
 Depends: python
 Description: Simple terminal text editor for Termux using Python curses
-Filename: dists/stable/extras/binary-all/simple-edit.deb
+Filename: dists/stable/main/binary-all/simple-edit.deb
 Size: 1880
 MD5Sum: 77a9a5413f2d1871dac9a7700670f8d5
 SHA1: f7371008ec8a59396187c691fa26aaf73d6a7cab
